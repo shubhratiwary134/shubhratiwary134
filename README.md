@@ -57,7 +57,7 @@
 ### MultiPlayer Whiteboard
 **[Live Demo](https://multiplayer-whiteboard.vercel.app/) • [GitHub Repo](https://github.com/shubhratiwary134/Multiplayer-whiteboard)**
 
-A feature-rich, real-time collaborative whiteboard built for modern teamwork. Users can create private rooms, invite others, and utilize a suite of drawing tools, draggable comments, and live cursors. It's the perfect solution for remote brainstorming, online teaching, and collaborative design work, containerized with Docker.
+A feature-rich, real-time collaborative whiteboard built for modern teamwork.
 
 ---
 
