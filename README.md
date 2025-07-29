@@ -54,21 +54,21 @@ My motto is simple: learn by doing. I'm not afraid to jump straight into a tough
 
 ## 🚀 My Projects
 
-### 🎨 MultiPlayer Whiteboard
+### MultiPlayer Whiteboard
 **[Live Demo](https://multiplayer-whiteboard.vercel.app/) • [GitHub Repo](https://github.com/shubhratiwary134/Multiplayer-whiteboard)**
 
 A feature-rich, real-time collaborative whiteboard built for modern teamwork. Users can create private rooms, invite others, and utilize a suite of drawing tools, draggable comments, and live cursors. It's the perfect solution for remote brainstorming, online teaching, and collaborative design work, containerized with Docker.
 
 ---
 
-### 🌿 Backyard Farming
+### Backyard Farming
 **[Live Demo](https://backyard-farming-2-0.vercel.app/) • [GitHub Repo](https://github.com/shubhratiwary134/Backyard-Farming-2.0)**
 
 An interface for farming simulations powered by AI, designed to help bring sustainable farming back to your own backyard.
 
 ---
 
-### 📈 Market Seasonality Explorer
+### Market Seasonality Explorer
 **[Live Demo](https://market-seasonality-explorer-opal.vercel.app/)**
 
 An interactive web application for visualizing historical volatility, liquidity, and performance data for financial instruments on a dynamic calendar heatmap.
