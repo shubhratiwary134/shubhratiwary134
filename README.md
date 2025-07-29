@@ -1,6 +1,6 @@
-## Hi👋 Shubhra Tiwary here !!
+# 👋 Hi Shubhra Tiwary here !!
 
-🚀 Frontend Developer, Passionate about solidity smart contract developement , Unknown Does not scare me , I believe in learning by building .  
+🚀 Frontend Developer,  Passionate about solidity smart contract developement , Unknown Does not scare me , I believe in learning by building .  
 
 ---
 
