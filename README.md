@@ -1,6 +1,18 @@
 ## Hi there 👋 Shubhra Tiwary here !!
 
-Frontend Developer | Passionate about solidity smart contract developement 
+🚀 Frontend Developer, Passionate about solidity smart contract developement , Unknown Does not scare me , I believe in learning by building .  
+
+---
+
+Tech Stack 
+
+Frontend: React, Tailwind CSS, ShadCN 
+Backend: Node.js, Flask, MongoDB, PostgresSQL
+Devops: Docker, AWS(EC2), Github Actions
+Languages: Typescript, C++, Go
+Web3: Solidity, Ether.js
+Testing: Jest, Chai + Mocha
+
 <!--
 **shubhratiwary134/shubhratiwary134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
