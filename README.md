@@ -42,8 +42,8 @@
 </table>
 
 
-
 ---
+
 
 ## ✨ My Coding Rule 
 
@@ -54,13 +54,6 @@ My motto is simple: learn by doing. I'm not afraid to jump straight into a tough
 
 ## 🚀 My Projects
 
-### 🌿 Backyard Farming
-**[Live Demo](https://backyard-farming-2-0.vercel.app/) • [GitHub Repo](https://github.com/shubhratiwary134/Backyard-Farming-2.0)**
-
-An interface for farming simulations powered by AI, designed to help bring sustainable farming back to your own backyard.
-
----
-
 ### 🎨 MultiPlayer Whiteboard
 **[Live Demo](https://multiplayer-whiteboard.vercel.app/) • [GitHub Repo](https://github.com/shubhratiwary134/Multiplayer-whiteboard)**
 
@@ -68,8 +61,15 @@ A feature-rich, real-time collaborative whiteboard built for modern teamwork. Us
 
 ---
 
+### 🌿 Backyard Farming
+**[Live Demo](https://backyard-farming-2-0.vercel.app/) • [GitHub Repo](https://github.com/shubhratiwary134/Backyard-Farming-2.0)**
+
+An interface for farming simulations powered by AI, designed to help bring sustainable farming back to your own backyard.
+
+---
+
 ### 📈 Market Seasonality Explorer
-**[Live Demo](https://market-seasonality-explorer-opal.vercel.app/) 
+**[Live Demo](https://market-seasonality-explorer-opal.vercel.app/)**
 
 An interactive web application for visualizing historical volatility, liquidity, and performance data for financial instruments on a dynamic calendar heatmap.
 
