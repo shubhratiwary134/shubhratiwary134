@@ -5,13 +5,13 @@
 ---
 
 Tech Stack 
-
-Frontend: React, Tailwind CSS, ShadCN 
-Backend: Node.js, Flask, MongoDB, PostgresSQL
-Devops: Docker, AWS(EC2), Github Actions
-Languages: Typescript, C++, Go
-Web3: Solidity, Ether.js
-Testing: Jest, Chai + Mocha
+--
+Frontend: React, Tailwind CSS, ShadCN.
+Backend: Node.js, Flask, MongoDB, PostgresSQL.
+Devops: Docker, AWS(EC2), Github Actions.
+Languages: Typescript, C++, Go.
+Web3: Solidity, Ether.js.
+Testing: Jest, Chai + Mocha.
 
 <!--
 **shubhratiwary134/shubhratiwary134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
