@@ -47,7 +47,7 @@
 
 ## ✨ My Coding Rule 
 
-My motto is simple: learn by doing. I'm not afraid to jump straight into a tough problem or a new technology. That's how I find the best solutions and get great results.
+"My motto is simple: learn by doing. I'm not afraid to jump straight into a tough problem or a new technology. That's how I find the best solutions and get great results"
 
 
 ---
@@ -73,7 +73,13 @@ An interface for farming simulations powered by AI, designed to help bring susta
 
 An interactive web application for visualizing historical volatility, liquidity, and performance data for financial instruments on a dynamic calendar heatmap.
 
+---
 
+## 📫 Get in Touch
+
+- 💼 **LinkedIn:** [Shubhra Tiwary](https://www.linkedin.com/in/shubhra-tiwary/)
+- 📧 **Gmail:** [shubhratiwary5@gmail.com](mailto:shubhratiwary5@gmail.com)
+- ✍️ **Medium:** [ShubhraTiwary](https://medium.com/@shubhratiwary5)
 <!--
 **shubhratiwary134/shubhratiwary134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
