@@ -6,7 +6,7 @@
 
 Tech Stack 
 --
-Frontend: React, Tailwind CSS, ShadCN.
+Frontend: React, Tailwind CSS, ShadCN, Spline, Framer-Motion.
 Backend: Node.js, Flask, MongoDB, PostgresSQL.
 Devops: Docker, AWS(EC2), Github Actions.
 Languages: Typescript, C++, Go.
