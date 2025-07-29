@@ -41,7 +41,7 @@
   </tr>
 </table>
 
-✨ My Coding Rule 
+## ✨ My Coding Rule 
 
 My motto is simple: learn by doing. I'm not afraid to jump straight into a tough problem or a new technology. That's how I find the best solutions and get great results.
 <!--
