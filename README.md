@@ -1,10 +1,10 @@
 # 👋 Hi Shubhra Tiwary here !!
 
-🚀 Frontend Developer,  Passionate about solidity smart contract developement , I believe in learning by building .  
+ Frontend Developer,  Passionate about solidity smart contract developement , I believe in learning by building .  
 
 ---
 
-## 🛠️ My Tech Stack
+##  My Tech Stack
 
 <table>
   <tr>
@@ -52,7 +52,7 @@
 
 ---
 
-## 🚀 My Projects
+##  My Projects
 
 ### MultiPlayer Whiteboard
 **[Live Demo](https://multiplayer-whiteboard.vercel.app/) • [GitHub Repo](https://github.com/shubhratiwary134/Multiplayer-whiteboard)**
