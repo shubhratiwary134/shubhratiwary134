@@ -54,14 +54,19 @@
 
 <div align="center">
 
-### 🚀 GitHub Stats
+###  GitHub Stats
+
+<a href="https://github.com/shubhratiwary134">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhratiwary134&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/shubhratiwary134">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhratiwary134&layout=compact&theme=radical" />
+</a>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=shubhratiwary134&theme=radical)
 
-![Shubhra's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhratiwary134&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhratiwary134&layout=compact&theme=radical)
-
 </div>
+
 
 
 --- 
