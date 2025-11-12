@@ -52,24 +52,6 @@
 
 ---
 
-<div align="center">
-
-
-<a href="https://github.com/shubhratiwary134">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhratiwary134&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/shubhratiwary134">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhratiwary134&layout=compact&theme=radical" />
-</a>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=shubhratiwary134&theme=radical)
-
-</div>
-
-
-
---- 
-
 ##  My Projects
 
 ### MultiPlayer Whiteboard
@@ -92,6 +74,23 @@ An interface for farming simulations powered by AI, designed to help bring susta
 An interactive web application for visualizing historical volatility, liquidity, and performance data for financial instruments on a dynamic calendar heatmap.
 
 ---
+
+<div align="center">
+
+
+<a href="https://github.com/shubhratiwary134">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhratiwary134&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/shubhratiwary134">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhratiwary134&layout=compact&theme=radical" />
+</a>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=shubhratiwary134&theme=radical)
+
+</div>
+
+--- 
+
 
 ## 📫 Get in Touch
 
