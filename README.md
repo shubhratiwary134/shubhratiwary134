@@ -52,12 +52,16 @@
 
 ---
 
-##  GitHub Stats
+<div align="center">
+
+### 🚀 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=shubhratiwary134&theme=radical)
+
 ![Shubhra's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhratiwary134&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhratiwary134&layout=compact&theme=radical)
 
+</div>
 
 
 --- 
