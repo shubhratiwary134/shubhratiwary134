@@ -57,8 +57,7 @@
 ![Shubhra's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhratiwary134&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhratiwary134&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=shubhratiwary134&theme=radical)
-![Total Stars](https://custom-icon-badges.demolab.com/github/stars/shubhratiwary134?color=55960c&labelColor=488207&style=for-the-badge&logo=star&label=STARS)
-![Profile Views](https://komarev.com/ghpvc/?username=shubhratiwary134&color=blueviolet)
+
 
 --- 
 
