@@ -54,7 +54,6 @@
 
 <div align="center">
 
-###  GitHub Stats
 
 <a href="https://github.com/shubhratiwary134">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhratiwary134&show_icons=true&theme=radical" />
