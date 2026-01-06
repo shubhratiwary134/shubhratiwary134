@@ -1,6 +1,6 @@
 # 👋 Hi Shubhra Tiwary here !!
 
- Frontend Developer,  Passionate about solidity smart contract developement , I believe in learning by building .  
+ Fullstack Developer,  Passionate about solidity smart contract developement , I believe in learning by building .  
 
 ---
 
