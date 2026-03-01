@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td><strong>Programming Languages</strong></td>
-    <td align="left">TypeScript, C++, Go</td>
+    <td align="left">TypeScript, C++, Go, C#</td>
   </tr>
   <tr>
     <td><strong>Frontend Development</strong></td>
@@ -21,15 +21,15 @@
   </tr>
   <tr>
     <td><strong>Backend Development</strong></td>
-    <td align="left">Node.js, Flask</td>
+    <td align="left">Node.js, Flask, ASP.NET</td>
   </tr>
   <tr>
     <td><strong>Databases</strong></td>
-    <td align="left">MongoDB, PostgreSQL</td>
+    <td align="left">MongoDB, PostgreSQL, MySql</td>
   </tr>
   <tr>
     <td><strong>Web3</strong></td>
-    <td align="left">Solidity, Ethers.js</td>
+    <td align="left">Solidity, Ethers.js, Hardhat</td>
   </tr>
   <tr>
     <td><strong>Testing</strong></td>
