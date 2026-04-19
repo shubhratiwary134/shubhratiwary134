@@ -54,10 +54,10 @@
 
 ##  My Projects
 
-### MultiPlayer Whiteboard
-**[Live Demo](https://multiplayer-whiteboard.vercel.app/) • [GitHub Repo](https://github.com/shubhratiwary134/Multiplayer-whiteboard)**
+### ERC-20 Faucet Gamified
+**[Live Demo](https://erc-20-pig.vercel.app/) • [GitHub Repo](https://github.com/shubhratiwary134/ERC-20_PIG)**
 
-A feature-rich, real-time collaborative whiteboard built for modern teamwork.
+An ERC-20 faucet with time-based and access-level controls, featuring a gamified pig racing system to earn rewards. Built with React and TypeScript. 
 
 ---
 
