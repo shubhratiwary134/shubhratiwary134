@@ -68,10 +68,10 @@ An interface for farming simulations powered by AI, designed to help bring susta
 
 ---
 
-### Market Seasonality Explorer
-**[Live Demo](https://market-seasonality-explorer-opal.vercel.app/)**
+### Dex Arb Simulator
+**[GitHub Repo](https://github.com/shubhratiwary134/dex_price_fetcher)**
 
-An interactive web application for visualizing historical volatility, liquidity, and performance data for financial instruments on a dynamic calendar heatmap.
+CLI tool to simulate and optimize cross-DEX arbitrage opportunities on a forked Ethereum mainnet 
 
 ---
 
