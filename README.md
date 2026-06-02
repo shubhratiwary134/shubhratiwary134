@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td><strong>Backend Development</strong></td>
-    <td align="left">Node.js, Flask, ASP.NET</td>
+    <td align="left">ASP.NET, Node.js, Flask</td>
   </tr>
   <tr>
     <td><strong>Databases</strong></td>
