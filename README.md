@@ -73,22 +73,6 @@ An interface for farming simulations powered by AI, designed to help bring susta
 
 CLI tool to simulate and optimize cross-DEX arbitrage opportunities on a forked Ethereum mainnet 
 
----
-
-<div align="center">
-
-
-<a href="https://github.com/shubhratiwary134">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhratiwary134&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/shubhratiwary134">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhratiwary134&layout=compact&theme=radical" />
-</a>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=shubhratiwary134&theme=radical)
-
-</div>
-
 --- 
 
 
