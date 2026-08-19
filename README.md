@@ -1,4 +1,4 @@
-# 👋 Hi Shubhra Tiwary here !!
+# Hi Shubhra Tiwary here !!
 
  Fullstack Developer,  Passionate about solidity smart contract developement , I believe in learning by building .  
 
